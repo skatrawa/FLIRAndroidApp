@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: flironesdk:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c3ff0ea3d983e73516edb45646468e2a23dffbec/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c3ff0ea3d983e73516edb45646468e2a23dffbec/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

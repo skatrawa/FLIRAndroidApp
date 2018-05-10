@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\meteor\\Downloads\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\meteor\\.android\\build-cache\\28e0373b106665d9d5082d71aaf4e26b7c020b6e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\meteor\\Downloads\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\meteor\\.android\\build-cache\\28e0373b106665d9d5082d71aaf4e26b7c020b6e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\meteor\\Downloads\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\meteor\\.android\\build-cache\\28e0373b106665d9d5082d71aaf4e26b7c020b6e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\meteor\\Downloads\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\meteor\\.android\\build-cache\\28e0373b106665d9d5082d71aaf4e26b7c020b6e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
